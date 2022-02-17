@@ -52,4 +52,5 @@ const profilPage = () => {
     </div>
   );
 };
+
 export default profilPage;
